@@ -1,9 +1,9 @@
 # Employ MUSE on EHR? 
-In this project we want to learn joint representations from multi-modal EHRs to identify subgroups of patients (in our case Rheumatoid arthritis (RA) patients). RA is a complex disease whereby patients differ in treatment response, prognosis and comorbidities.
+In this project we want to learn joint representations from multi-modal Electronic Health Records (EHRs) to identify subgroups of patients (in our case Rheumatoid arthritis (RA) patients). RA is a complex disease whereby patients differ in treatment response, prognosis and comorbidities.
 
 This project was forked from the original repo: http://github.com/AltschulerWu-Lab/MUSE
 
-The original repo was based on single cell data, however we want to evaluate whether we can apply a similar approach on the mixed-type EHR data. The EHR features all sorts of clinical information: lab values, physician notes (free text), demographics, mannequin (details the inflamed joints) and vitals to name a few. Once we find a common feature space and perform clustering, we want to see whether we can link a patient's cluster membership to the treatment respons.
+The original repo was based on single cell data, however we want to apply a similar approach on the mixed-type EHR data. The EHR features all sorts of clinical information: lab values, physician notes (free text), demographics, mannequin (details the inflamed joints) and vitals to name a few. Once we find a common feature space and perform clustering, we want to see whether we can link a patient's cluster membership to the treatment respons.
 
 # MUSE: multi-modality structured embedding for spatially resolved transcriptomics analysis
 
