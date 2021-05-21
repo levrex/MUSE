@@ -1,5 +1,5 @@
 # Employ MUSE on EHR? 
-In this project we want to learn joint representations from multi-modal EHRs to identify subgroups of patients (in our case RA-patients). RA is a complex disease whereby patients differ in treatment response, prognosis and comorbidities.
+In this project we want to learn joint representations from multi-modal EHRs to identify subgroups of patients (in our case Rheumatoid arthritis (RA) patients). RA is a complex disease whereby patients differ in treatment response, prognosis and comorbidities.
 
 This project was forked from the original repo: http://github.com/AltschulerWu-Lab/MUSE
 
